@@ -68,4 +68,4 @@ const isChecked = true,
       isHead = false,
       isFood = false;
 
-console.log(isChecked && !isClose && !isHead && !isFood);
+console.log(isChecked && !isClose && !isHead && !isFood); 
